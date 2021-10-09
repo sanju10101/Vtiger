@@ -1,0 +1,12 @@
+<suite name="Suite">
+  <test  name="TestRunner1">
+  <classes>
+  <class name = "testNG.AnnotationsMainClass"/>
+  </classes>
+  </test> 
+  <test  name="TestRunner2">
+  <classes>
+  <class name = "testNG.AnnotationsMainClass2"/>
+  </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,8 @@
+<suite name="Suite">
+  <test  name="Test">
+  <parameter name="browsers" value="chrome"></parameter>
+  <classes>
+  <class name="testNG.ReadDataFromXml"/>
+  </classes>
+  </test> 
+</suite>

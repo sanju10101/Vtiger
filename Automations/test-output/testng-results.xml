@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[before suite]]>
+    </line>
+    <line>
+      <![CDATA[before test]]>
+    </line>
+    <line>
+      <![CDATA[before class]]>
+    </line>
+    <line>
+      <![CDATA[before method]]>
+    </line>
+    <line>
+      <![CDATA[bun test method]]>
+    </line>
+    <line>
+      <![CDATA[after method]]>
+    </line>
+    <line>
+      <![CDATA[before method]]>
+    </line>
+    <line>
+      <![CDATA[run test method]]>
+    </line>
+    <line>
+      <![CDATA[after method]]>
+    </line>
+    <line>
+      <![CDATA[after class]]>
+    </line>
+    <line>
+      <![CDATA[before class]]>
+    </line>
+    <line>
+      <![CDATA[before method]]>
+    </line>
+    <line>
+      <![CDATA[gun test method]]>
+    </line>
+    <line>
+      <![CDATA[after method]]>
+    </line>
+    <line>
+      <![CDATA[after class]]>
+    </line>
+    <line>
+      <![CDATA[after test]]>
+    </line>
+    <line>
+      <![CDATA[after suite]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-08-31T12:43:15 IST" name="Suite" finished-at="2021-08-31T12:43:15 IST" duration-ms="88">
+    <groups>
+    </groups>
+    <test started-at="2021-08-31T12:43:15 IST" name="Test" finished-at="2021-08-31T12:43:15 IST" duration-ms="88">
+      <class name="testNG.AnnotationsMainClass2">
+        <test-method is-config="true" signature="c()[pri:0, instance:testNG.AnnotationsMainClass2@28f3b248]" started-at="2021-08-31T12:43:15 IST" name="c" finished-at="2021-08-31T12:43:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[before class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method signature="gun()[pri:0, instance:testNG.AnnotationsMainClass2@28f3b248]" started-at="2021-08-31T12:43:15 IST" name="gun" finished-at="2021-08-31T12:43:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun test method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method is-config="true" signature="a()[pri:0, instance:testNG.AnnotationsMainClass2@28f3b248]" started-at="2021-08-31T12:43:15 IST" name="a" finished-at="2021-08-31T12:43:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="b()[pri:0, instance:testNG.AnnotationsMainClass2@28f3b248]" started-at="2021-08-31T12:43:15 IST" name="b" finished-at="2021-08-31T12:43:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNG.AnnotationsMainClass2@28f3b248]" started-at="2021-08-31T12:43:15 IST" name="d" finished-at="2021-08-31T12:43:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[after class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d -->
+      </class> <!-- testNG.AnnotationsMainClass2 -->
+      <class name="testNG.AnnotationsMainClass">
+        <test-method is-config="true" signature="g()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="g" finished-at="2021-08-31T12:43:15 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[before suite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method is-config="true" signature="e()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="e" finished-at="2021-08-31T12:43:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[before test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- e -->
+        <test-method is-config="true" signature="c()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="c" finished-at="2021-08-31T12:43:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[before class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method is-config="true" signature="a()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="a" finished-at="2021-08-31T12:43:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method signature="bun()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="bun" finished-at="2021-08-31T12:43:15 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[bun test method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bun -->
+        <test-method is-config="true" signature="b()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="b" finished-at="2021-08-31T12:43:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method is-config="true" signature="a()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="a" finished-at="2021-08-31T12:43:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method signature="run()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="run" finished-at="2021-08-31T12:43:15 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[run test method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method is-config="true" signature="b()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="b" finished-at="2021-08-31T12:43:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="d" finished-at="2021-08-31T12:43:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[after class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method is-config="true" signature="f()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:15 IST" name="f" finished-at="2021-08-31T12:43:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[after test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="h()[pri:0, instance:testNG.AnnotationsMainClass@10d307f1]" started-at="2021-08-31T12:43:16 IST" name="h" finished-at="2021-08-31T12:43:16 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[after suite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- h -->
+      </class> <!-- testNG.AnnotationsMainClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
